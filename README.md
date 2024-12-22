@@ -5,7 +5,10 @@ To write a python program to find a solution to a system of linear equations.
 1. 	Hardware – PCs
 2. 	Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## Algorithm:
-### Step 1: 
+### Step 1: A matrix 𝐴A of size 𝑚
+×
+𝑛
+m×n.
 Import the numpy module to use the built-in functions for calculation
 ### Step 2: 
 Prepare the lists from each linear equations and assign in np.array()
